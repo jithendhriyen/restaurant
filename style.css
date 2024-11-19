@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-image: url(bgimage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: medium;
+}
+
+a:hover{
+    color: orange;
+}
+
+li{
+    padding-top: 40px;
+    float: left;
+    list-style: none;
+    padding-left: 90px;
+}
+
+.heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 90px;
+    color: white;
+    padding-top: 300px;
+    padding-left: 402px;
+    letter-spacing: 20px;
+}
+
+p{
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    padding-left: 300px;
+    padding-top: 260px;
+    font-weight: bold;
+    letter-spacing: 14px;
+}
+
+
+.card{
+    padding-left: 458px;
+
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    
+    padding-top: 109px;
+}
+
+.container{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+
+}
+
+.bgcont{
+    background-color: white;
+
+}
+
+h3{
+    padding-top: 20px;
+    font-family: 'Brush Script MT';
+    color: black;
+}
+
+button{
+    padding-left: 300px;
+    background-color: orange;
+    padding: 15px 32px;
+    border: none;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+ 
+}
+
+button:hover{
+    background-color: lightsalmon;
+}
+
+
+footer{
+    background-color: #1c1c1c;
+    padding-bottom: 30px;
+}
+
+h2{
+    padding-top: 15px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+form{
+    padding-top: 200px;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    font-size: 30px;
+    
+}
+
+input{
+    border: none;
+    padding: 7px 28px;
+    border-radius: 30px;
+}
+
+.abouth{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    color: white;
+    padding-top: 250px;
+    padding-left: 70px;
+    letter-spacing:18px;
+}
+
+.abouth2{
+    padding-left: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 15px;
+    padding-right: 250px;
+}
+
+.menuh1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    color: white;
+    padding-top: 216px;
+    letter-spacing:18px;
+}
+
+table{
+    font-family: 'Courier New', Courier, monospace;
+    border-color: white;
+    color: white;
+
+}
+
+td{
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+}
+
+th{
+    font-size: 20px;
+    color: orange;
+    border: none;
+}
+
